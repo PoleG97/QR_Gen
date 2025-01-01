@@ -31,7 +31,7 @@ Ahora sólo habrá que seguir lo que pida el script.
 2. Si se quiere o no dar un nombre personalizado al archivo.
 
 >[!WARNING]
-> EL nombre no debe incluir espacios ni caracteres especiales.
+> El nombre no debe incluir espacios ni caracteres especiales.
 
 > En caso de querer dar un nombre personalizado, no hace falta 
 > incluir la extensión `.png`, ya que el script la añadirá
